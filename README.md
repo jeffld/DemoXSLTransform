@@ -5,5 +5,5 @@ C#.NET web form to show how to transform XML
 
 Code is from Visual Studio 2017
 
-![screenshot](https://github.com/jeffld/DemoXSLTranform/screenshots/screenshot01.jpg?raw=true "screenshot 01")
+![screenshot](https://github.com/jeffld/DemoXSLTranform/screenshots/screenshot01.jpg)
 
